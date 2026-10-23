@@ -26,7 +26,7 @@ An AI travel planner that compares options against a traveler's budget and hard 
 
 ### Sy-Reality!
 
-A VR karaoke experience for Meta Quest 3: perform in immersive environments with synchronized lyrics, timed cues, and spatial interaction. Built in Unity and C# on OpenXR, structured as a complete vertical slice — one full performance loop, data-driven song definitions, and a tested timing core — rather than a collection of unfinished mechanics. It grows directly out of my VR research work at Vanderbilt's Wallace Multisensory Lab. In active development.
+A VR karaoke experience for Meta Quest 3: perform in immersive environments with synchronized lyrics, timed cues, and spatial interaction. Built in Unity and C# on OpenXR with data-driven song definitions and a deterministic timing core — the sync engine, state machine, and playback clock are pure C# with 30 passing tests. The in-headset performance loop is assembled from a code-built scene and is in active development. It grows directly out of my VR research work at Vanderbilt's Wallace Multisensory Lab. [Source →](https://github.com/VulpineCodes/sy-reality)
 
 *Unity · C# · OpenXR · Meta Quest 3*
 
@@ -61,6 +61,7 @@ Helped found the Vanderbilt chapter and grew its membership from 15 to 120+ stud
 
 ## Elsewhere
 
+- Portfolio — [vulpinecodes.github.io](https://vulpinecodes.github.io)
 - GitHub — [github.com/VulpineCodes](https://github.com/VulpineCodes)
 - LinkedIn — [linkedin.com/in/franklinudensi](https://www.linkedin.com/in/franklinudensi)
 - Email — [franklin.c.udensi@gmail.com](mailto:franklin.c.udensi@gmail.com)
